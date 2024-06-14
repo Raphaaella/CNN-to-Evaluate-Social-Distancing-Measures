@@ -2,3 +2,6 @@ Possible Data:
 - https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
 - https://www.kaggle.com/datasets/almightyj/oxford-town-centre 
 	>>probably not the original data set, becuase its not from actual web page but from Kaggle
+- https://exposing.ai/oxford_town_centre/ >>original one
+- https://exposing.ai/wildtrack/
+	>>ETH Wildtrack but from 2017
