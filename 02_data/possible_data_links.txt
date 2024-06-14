@@ -1,0 +1,4 @@
+Possible Data:
+- https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
+- https://www.kaggle.com/datasets/almightyj/oxford-town-centre 
+	>>probably not the original data set, becuase its not from actual web page but from Kaggle
