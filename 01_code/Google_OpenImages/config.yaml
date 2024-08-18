@@ -1,8 +1,0 @@
-path: /Users/maxweiland/Desktop/SEDS/2nd/DeepL/CNN-to-Evaluate-Social-Distancing-Measures/02_data/Google_OpenImages/data_yolo
-train: train/images
-val: validation/images
-
-nc: 1
-
-names:
-  0: person
