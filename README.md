@@ -11,7 +11,7 @@ This folder contains all the code we wrote for preprocessing and carrying out th
 * [1_Preprocessing](01_code/1_Preprocessing) Contains all preprocessing steps such as downloading COCO and Oxford images, resizing images and     bounding boxes, preparing data for YOLO format. It also contains a preliminary data analysis.
 * [2_Count_CNN_Model](01_code/2_Count_CNN_model) Here the code for building the Count CNN Model is stored. The model is built, evaluated and its weights are saved in this folder. It also contains a file for visualizing intermediate feature maps.
 * [3_YOLO](01_code/3_YOLO) All the code for building and evaluating the YOLO model on the data. YOLO model is finetuned on images from the Oxford Street Centre Dataset. All evaluation files the model outputs based on this fine-tuning are saved here.
-* [4_Analysis](01_code/4_Analysis) The code for analyzing both the Count CNN and the YOLO model is stored here.
+* [4_Analysis](01_code/4_Analysis) The code for analyzing both the Count CNN and the YOLO model is stored here. Here you also find the code for validating the CNN and YOLO model with self-annotated Earthcam data.
 
 ### 02_data
 
